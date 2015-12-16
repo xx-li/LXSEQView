@@ -1,3 +1,11 @@
+//
+//  LXSEQView.m
+//  LXSEQViewDemo
+//
+//  Created by 李新星 on 15/12/16.
+//  Copyright © 2015年 xx-li. All rights reserved.
+//
+
 #import "LXSEQView.h"
 
 @interface LXSEQView () {

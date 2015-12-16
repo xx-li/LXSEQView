@@ -1,3 +1,11 @@
+//
+//  LXSEQView.h
+//  LXSEQViewDemo
+//
+//  Created by 李新星 on 15/12/16.
+//  Copyright © 2015年 xx-li. All rights reserved.
+//
+
 #import <UIKit/UIKit.h>
 
 /*! 显示音乐播放的动画 */
